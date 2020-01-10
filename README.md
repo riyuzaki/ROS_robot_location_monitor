@@ -1,2 +1,2 @@
 # ROS_robot_location_monitor
-Simple localization the robot in simulation (gazebo)
+Simple localization of robot in simulation (gazebo)
