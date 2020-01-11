@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ryuzaki/catkin_ws/src/robot_location_monitor/install/setup.sh

@@ -1,0 +1,6 @@
+devel_space: /home/ryuzaki/catkin_ws/src/robot_location_monitor/devel
+install: false
+install_space: /home/ryuzaki/catkin_ws/src/robot_location_monitor/install
+profile: default
+source_space: /home/ryuzaki/catkin_ws/src/robot_location_monitor/src
+workspace: /home/ryuzaki/catkin_ws/src/robot_location_monitor
